@@ -1,0 +1,24 @@
+<html>
+<head>
+<style>
+   h1{
+      color:green;
+     }
+   #mk
+   {
+     color: blue;
+   }
+   .classStyle
+   {
+    color:tomato;
+   }
+   p.solid {border-style: solid;}
+  
+</style>
+<boby>
+   <h1>hello everyone</h1>
+   <p id="mk">my name is kavya</p>
+   <h3 class="classStyle">this is css</h3>
+   <p class="solid">kavya is strong</p>
+</body>
+</html>
